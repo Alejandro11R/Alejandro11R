@@ -77,6 +77,12 @@
   <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
+## ✨ Gracias por visitar mi perfil
+
+<p align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="80" height="80">
+</p>
+
 
 ```python
 while True:
@@ -86,11 +92,5 @@ while True:
     café()
 
 print("Y así, el ciclo continúa...")
----
 
 
-## ✨ Gracias por visitar mi perfil
-
-<p align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="80" height="80">
-</p>
