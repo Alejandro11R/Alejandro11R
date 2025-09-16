@@ -77,6 +77,46 @@
   <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
+## 📬 Contacto  
+
+### 🌐 Visita mis redes sociales  
+
+<p align="center">
+  <a href="https://linkedin.com/in/tuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/tuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:tu_correo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Correo%20Electrónico-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://tiktok.com/@tuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<table>
+  <tr>
+    <!-- Columna izquierda: Imagen -->
+    <td width="50%" align="center">
+      <img src="https://i.imgur.com/8Km9tLL.png" alt="Laptop animada" width="300"/>
+    </td>
+
+    <!-- Columna derecha: Código -->
+    <td width="50%">
+      
+```python
+while True:
+    comer()
+    dormir()
+    programar()
+    café()
+
+print("Y así, el ciclo continúa...")
+
 
 ---
 
