@@ -96,10 +96,7 @@
   </a>
 </p>
 
----
 
-<table>
-  <tr>  
 ```python
 while True:
     comer()
@@ -110,7 +107,6 @@ while True:
 print("Y así, el ciclo continúa...")
 
 
----
 
 ## ✨ Gracias por visitar mi perfil
 
