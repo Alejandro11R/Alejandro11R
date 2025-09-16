@@ -39,7 +39,7 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-256/css3-11-1175239.png" width="60" /></td>
     <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></td>
     <td><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /></td>
-    <td></td><img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" width="60"/></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" width="60"/></td>
   </tr>
 </table>
 
