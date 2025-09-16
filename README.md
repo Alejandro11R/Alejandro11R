@@ -99,15 +99,7 @@
 ---
 
 <table>
-  <tr>
-    <!-- Columna izquierda: Imagen -->
-    <td width="50%" align="center">
-      <img src="https://i.imgur.com/8Km9tLL.png" alt="Laptop animada" width="300"/>
-    </td>
-
-    <!-- Columna derecha: Código -->
-    <td width="50%">
-      
+  <tr>  
 ```python
 while True:
     comer()
