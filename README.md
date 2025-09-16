@@ -5,7 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;JavaScript,+Java,+Laravel,+Python,+PHP,+MySQL;Apasionado+por+crear+y+aprender+continuamente;&font=Fira+Code&center=true&width=800&height=45&color=58a6ff&vCenter=true&size=22">
   </a>
 </p>
-
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Alejandro11r.Alejandro11r" alt="visitors" />
 </p>
@@ -29,19 +28,22 @@
 ## 🚀 Tecnologías y herramientas
 
 <table>
-  <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png" width="60" /></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/java-59-1174952.png" width="60" /></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/laravel-3-1175147.png" width="60" /></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/php-2752101-2284918.png" width="60" /></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png" width="60" /></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" width="60" /></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/css3-11-1175239.png" width="60" /></td>
-    <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></td>
-    <td><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" width="60"/></td>
-  </tr>
-</table>
+    <tr>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png" width="60" /><br>JavaScript</td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/java-59-1174952.png" width="60" /><br>Java</td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/laravel-3-1175147.png" width="60" /><br>Laravel</td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" width="60"/><br>Python</td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/php-2752101-2284918.png" width="60" /><br>PHP</td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png" width="60" /><br>MySQL</td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" width="60" /><br>HTML5</td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/css3-11-1175239.png" width="60" /><br>CSS3</td>
+      <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="40"/><br>Linux</td>
+      <td><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="40"/><br>Git</td>
+    </tr>
+  </table>
+</p>
 
 
 ---
