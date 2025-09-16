@@ -73,8 +73,8 @@
   <a href="www.linkedin.com/in/hugo-rodriguez-08b59b323" target="_blank">
     <img src="https://img.icons8.com/doodle/40/linkedin--v2.png" />
   </a>
- <a href="mailto:hugoalejandro.11r@gmail.com">
-  <img alt="Gmail" src="https://img.shields.io/badge/hugoalejandro.11r@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:hugoalejandro.11r@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
