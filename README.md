@@ -2,7 +2,8 @@
 
 <p align="center">
   <a href="https://github.com/Alejandro11r">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;+JavaScript,+Java,+Laravel,+Python,+PHP,+MySQL,+HTML5,+CSS3,+Linux,+Git;Apasionado+por+crear+y+aprender+continuamente;&font=Fira+Code&center=true&width=900&height=45&color=58a6ff&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines= Full+Stack+Developer; JavaScript,+Java,+Laravel,+Python,+PHP,+MySQL,+HTML5,+CSS3,+Linux,+Git; Apasionado+por+crear+y+aprender+continuamente;&font=Fira+Code&center=true&width=900&height=45&color=58a6ff&vCenter=true&size=22">
+
   </a>
 </p>
 <p align="center">
