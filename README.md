@@ -78,11 +78,7 @@
 </a>
 </p>
 ---
-## ✨ Gracias por visitar mi perfil
 
-<p align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="80" height="80">
-</p>
 
 
 ```python
