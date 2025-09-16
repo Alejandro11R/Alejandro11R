@@ -39,9 +39,11 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" width="60" /></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-256/css3-11-1175239.png" width="60" /></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-256/github-170-1175028.png" width="60" /></td>
-    <td></td>![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) </td>
+    <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></td>
+    <td><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /></td>
   </tr>
 </table>
+
 
 ---
 
