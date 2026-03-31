@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hola, soy Alejandro Rodríguez – Desarrollador Full Stack </h1>
+<h1 align="center"> 👋 Hola, soy Alejandro Rodríguez – Desarrollador Junior </h1>
 
 <p align="center">
   <a href="https://github.com/Alejandro11r">
@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-- 💼 Soy un desarrollador full stack con experiencia en frontend y backend.
+- 💼 Soy un desarrollador Junior con experiencia en frontend y backend.
 - 💡 Me apasiona aprender nuevas tecnologías y aplicarlas a proyectos reales.
 - 🔧 He trabajado en:
   - Páginas web responsivas
