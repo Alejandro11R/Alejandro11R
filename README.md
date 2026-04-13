@@ -115,8 +115,35 @@ CachyOS         ──▶  Hogar actual. Rendimiento + Hyprland
 </table>
 
 ---
+## `~$ fastfetch`
+
+<div align="center">
 
 ## `~$ neofetch --stats`
+.-------------------------:                     DISTRO    CachyOS x86_64
+      .+=========================.                    │ ├  Linux 6.13.10-1-cachyos
+     :++===++==================-                      │ ├  1856 (pacman), 10 (flatpak)
+    :*++====+++++=============-                       │ └  zsh 5.9
+   -*+++=====+***++==========:
+  =*++++========------------:                          DE/WM    Hyprland 0.54.3 (Wayland)
+ =*+++++=====-                                        │ ├  Tokyonight-Dark [GTK2/3/4]
+ .++++++=-===:                                         │ ├  Bibata-Modern-Ice (24px)
+:++++=====-==:                                          │ ├  FantasqueSansMNFM-Bold (14pt)
+:++========-=.                                           │ └  kitty 0.46.2
+.+==========-.
+:+++++++====-                                           
+:++==========.                                         │ ├  
+.-===========.                                        │ ├  
+.-===========:                                       │ ├  1366x768 @ 60Hz [Built-in 15"]
+-=======++++::::::::::::::::::-                    │ ├  5.87 GiB / 11.49 GiB (51%)
+:======++++====+++***********=.                   │ └  3 hours, 13 mins
+:=====+++==========+++++++++-
+.====++==============+++++++*-                   AUDIO    Estéreo analógico
+.===+==================+++++++:                │ ├  Brave
+.-=======================+++:                 │ └  ♪ eien — ashes
+..........................
+</div>
+---
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Alejandro11r&show_icons=true&theme=catppuccin_mocha&count_private=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4"/>
