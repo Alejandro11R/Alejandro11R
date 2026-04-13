@@ -1,93 +1,175 @@
-<h1 align="center"> 👋 Hola, soy Alejandro Rodríguez – Desarrollador Junior </h1>
+<div align="center">
+
+```
+ ██████╗ █████╗  ██████╗██╗  ██╗██╗   ██╗ ██████╗ ███████╗
+██╔════╝██╔══██╗██╔════╝██║  ██║╚██╗ ██╔╝██╔═══██╗██╔════╝
+██║     ███████║██║     ███████║ ╚████╔╝ ██║   ██║███████╗
+██║     ██╔══██║██║     ██╔══██║  ╚██╔╝  ██║   ██║╚════██║
+╚██████╗██║  ██║╚██████╗██║  ██║   ██║   ╚██████╔╝███████║
+ ╚═════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚══════╝
+```
+
+<a href="https://github.com/Alejandro11r">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+en+formación;Linux+enthusiast+%7C+CachyOS+%2B+Hyprland;Explorando+el+mundo+del+código;Aprendiendo+cada+día+:)&font=JetBrains+Mono&center=true&width=600&height=50&color=cba6f7&vCenter=true&size=18&pause=800">
+</a>
+
+<br/>
+
+![](https://img.shields.io/badge/OS-CachyOS-1e1e2e?style=flat-square&logo=archlinux&logoColor=cba6f7)
+![](https://img.shields.io/badge/WM-Hyprland-1e1e2e?style=flat-square&logo=wayland&logoColor=89b4fa)
+![](https://img.shields.io/badge/Shell-zsh-1e1e2e?style=flat-square&logo=gnubash&logoColor=a6e3a1)
+![](https://img.shields.io/badge/Editor-Neovim%20%2F%20VSCode-1e1e2e?style=flat-square&logo=neovim&logoColor=cba6f7)
+![](https://img.shields.io/badge/Kernel-Linux-1e1e2e?style=flat-square&logo=linux&logoColor=f9e2af)
+
+</div>
+
+---
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320px" style="margin-left: 20px"/>
+
+## `~$ whoami`
+
+Hola, soy **Alejandro Rodríguez** — desarrollador junior con una obsesión seria por Linux y los entornos personalizados.
+
+Llevo **más de un año explorando el ecosistema Linux**, pasando por varias distros hasta encontrar mi setup ideal:
+
+```yaml
+distro:    CachyOS        # performance-first Arch-based
+wm:        Hyprland       # Wayland compositor ✨
+terminal:  kitty / alacritty
+```
+
+Me dedico a aprender desarrollo web mientras sigo profundizando en el mundo open source. No soy experto en todo todavía, pero sí muy curioso 🚀
+
+<br clear="right"/>
+
+---
+
+## `~$ cat distro_journey.log`
+
+> *"De distro en distro hasta encontrar el hogar"*
+
+```
+Linux Mint      ──▶  Primera distro, amigable y estable ✅
+Lubuntu         ──▶  Ligero, perfecto para hardware humilde 🪶
+Feren OS        ──▶  Bonito, pero quería más control 🎨
+MX Linux        ──▶  Sólido y clásico, gran comunidad 💪
+EndeavourOS     ──▶  Primera vez con Arch-based 👀
+Kubuntu         ──▶  KDE Plasma, muy personalizable 🖥️
+CachyOS         ──▶  Hogar actual. Rendimiento + Hyprland 🏠✨
+```
+
+---
+
+## `~$ ls ~/skills/`
+
+> Soy junior — honesto con lo que sé y lo que estoy aprendiendo
+
+<table align="center">
+  <tr>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Datos</th>
+    <th>Dev Tools</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="40" title="HTML5"/><br/>HTML5
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=php" width="40" title="PHP"/><br/>PHP
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="40" title="MySQL"/><br/>MySQL
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="40" title="Git"/><br/>Git
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="40" title="CSS3"/><br/>CSS3
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=laravel" width="40" title="Laravel"/><br/>Laravel
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" title="PostgreSQL"/><br/>PostgreSQL
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=linux" width="40" title="Linux"/><br/>Linux
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" width="40" title="JavaScript"/><br/>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="40" title="Python"/><br/>Python
+    </td>
+    <td></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="40" title="GitHub"/><br/>GitHub
+    </td>
+  </tr>
+</table>
+
+---
+
+## `~$ neofetch --stats`
 
 <p align="center">
-  <a href="https://github.com/Alejandro11r">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;JavaScript,+Java,+Laravel,+Python,+PHP,+MySQL,+HTML5,+CSS3,+Linux,+Git;Apasionado+por+crear+y+aprender+continuamente;&font=Fira+Code&center=true&width=950&height=45&color=58a6ff&vCenter=true&size=22">
-
-
-  </a>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Alejandro11r&show_icons=true&theme=catppuccin_mocha&count_private=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro11r&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&langs_count=6"/>
 </p>
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Alejandro11r.Alejandro11r" alt="visitors" />
-</p>
-
----
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380px" height="280px" />
-
-## 🧑‍💻 Sobre mí
-
-- 💼 Soy un desarrollador Junior con experiencia en frontend y backend.
-- 💡 Me apasiona aprender nuevas tecnologías y aplicarlas a proyectos reales.
-- 🔧 He trabajado en:
-  - Páginas web responsivas
-  - Sistemas de gestión
-  - Proyectos personales para automatizar tareas
-- 📚 Actualmente sigo profundizando en Laravel, Python y bases de datos relacionales.
-
----
-
-## 🚀 Tecnologías y herramientas
-
-<table>
-    <tr>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png" width="60" /><br>JavaScript</td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/java-59-1174952.png" width="60" /><br>Java</td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/laravel-3-1175147.png" width="60" /><br>Laravel</td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" width="60"/><br>Python</td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/php-2752101-2284918.png" width="60" /><br>PHP</td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png" width="60" /><br>MySQL</td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" width="60" /><br>HTML5</td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/css3-11-1175239.png" width="60" /><br>CSS3</td>
-      <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="40"/><br>Linux</td>
-      <td><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="40"/><br>Git</td>
-    </tr>
-  </table>
-</p>
-
-
----
-
-## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alejandro11r&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro11r&layout=compact&theme=tokyonight&langs_count=8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alejandro11r&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=cba6f7&fire=f38ba8&currStreakLabel=a6e3a1"/>
 </p>
+
 ---
 
-## 🌐 Conéctate conmigo
+## `~$ cat currently_learning.md`
+
+```diff
++ Laravel & PHP avanzado
++ Python para scripting y automatización
++ Dotfiles & configuración de Hyprland
++ SQL y diseño de bases de datos relacionales
+- Todavía explorando qué rama me apasiona más
+```
+
+---
+
+## `~$ links --social`
 
 <p align="center">
   <a href="https://github.com/Alejandro11r" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/github--v1.png" />
+    <img src="https://img.shields.io/badge/GitHub-Alejandro11r-1e1e2e?style=for-the-badge&logo=github&logoColor=cba6f7&labelColor=313244"/>
   </a>
-  <a href="https://www.instagram.com/alejo_________7?igsh=ejJlb3ZhN3dmb3l1" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/instagram-new--v2.png" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/hugo-rodriguez-08b59b323" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Hugo Rodríguez-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=89b4fa&labelColor=313244"/>
   </a>
-  <a href="https://www.facebook.com/share/1785WAcWsu/" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/facebook-new.png" />
+  &nbsp;
+  <a href="mailto:hugoalejandro.11r@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-hugoalejandro.11r-1e1e2e?style=for-the-badge&logo=gmail&logoColor=f38ba8&labelColor=313244"/>
   </a>
-  <a href="www.linkedin.com/in/hugo-rodriguez-08b59b323" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/linkedin--v2.png" />
+  &nbsp;
+  <a href="https://www.instagram.com/alejo_________7" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-alejo__7-1e1e2e?style=for-the-badge&logo=instagram&logoColor=f5c2e7&labelColor=313244"/>
   </a>
-<a href="mailto:hugoalejandro.11r@gmail.com">
-  <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 </p>
+
 ---
 
+<div align="center">
 
+```
+  feliz riceando en wayland desde colombia 🇨🇴
+```
 
-```python
-while True:
-    comer()
-    dormir()
-    programar()
-    café()
+![](https://img.shields.io/badge/made%20with-catppuccin%20mocha-1e1e2e?style=flat-square&logoColor=cba6f7)
+![](https://visitor-badge.laobi.icu/badge?page_id=Alejandro11r.Alejandro11r)
 
-print("Y así, el ciclo continúa...")
-
-
+</div>
