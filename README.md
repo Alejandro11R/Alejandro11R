@@ -50,13 +50,13 @@ Me dedico a aprender desarrollo web mientras sigo profundizando en el mundo open
 > *"De distro en distro hasta encontrar el hogar"*
 
 ```
-Linux Mint      ──▶  Primera distro, amigable y estable 
-Lubuntu         ──▶  Ligero, perfecto para hardware humilde 
-Feren OS        ──▶  Bonito, pero quería más control 
-MX Linux        ──▶  Sólido y clásico, gran comunidad 
-EndeavourOS     ──▶  Primera vez con Arch-based 
-Kubuntu         ──▶  KDE Plasma, muy personalizable 
-CachyOS         ──▶  Hogar actual. Rendimiento + Hyprland 
+Linux Mint      ──▶  Primera distro, amigable y estable ✅
+Lubuntu         ──▶  Ligero, perfecto para hardware humilde 🪶
+Feren OS        ──▶  Bonito, pero quería más control 🎨
+MX Linux        ──▶  Sólido y clásico, gran comunidad 💪
+EndeavourOS     ──▶  Primera vez con Arch-based 👀
+Kubuntu         ──▶  KDE Plasma, muy personalizable 🖥️
+CachyOS         ──▶  Hogar actual. Rendimiento + Hyprland 🏠✨
 ```
 
 ---
@@ -113,7 +113,10 @@ CachyOS         ──▶  Hogar actual. Rendimiento + Hyprland
     </td>
   </tr>
 </table>
+
 ---
+
+## `~$ neofetch --stats`
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Alejandro11r&show_icons=true&theme=catppuccin_mocha&count_private=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4"/>
@@ -137,6 +140,7 @@ CachyOS         ──▶  Hogar actual. Rendimiento + Hyprland
 ```
 
 ---
+
 ## `~$ links --social`
 
 <p align="center">
