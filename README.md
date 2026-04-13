@@ -50,13 +50,13 @@ Me dedico a aprender desarrollo web mientras sigo profundizando en el mundo open
 > *"De distro en distro hasta encontrar el hogar"*
 
 ```
-Linux Mint      ──▶  Primera distro, amigable y estable ✅
-Lubuntu         ──▶  Ligero, perfecto para hardware humilde 🪶
-Feren OS        ──▶  Bonito, pero quería más control 🎨
-MX Linux        ──▶  Sólido y clásico, gran comunidad 💪
-EndeavourOS     ──▶  Primera vez con Arch-based 👀
-Kubuntu         ──▶  KDE Plasma, muy personalizable 🖥️
-CachyOS         ──▶  Hogar actual. Rendimiento + Hyprland 🏠✨
+Linux Mint      ──▶  Primera distro, amigable y estable 
+Lubuntu         ──▶  Ligero, perfecto para hardware humilde 
+Feren OS        ──▶  Bonito, pero quería más control 
+MX Linux        ──▶  Sólido y clásico, gran comunidad 
+EndeavourOS     ──▶  Primera vez con Arch-based 
+Kubuntu         ──▶  KDE Plasma, muy personalizable 
+CachyOS         ──▶  Hogar actual. Rendimiento + Hyprland 
 ```
 
 ---
