@@ -137,7 +137,6 @@ CachyOS         ──▶  Hogar actual. Rendimiento + Hyprland
 ```
 
 ---
-
 ## `~$ links --social`
 
 <p align="center">
