@@ -1,131 +1,264 @@
 <div align="center">
 
-# Hi, I'm Alejandro 👋
+```
+ ██████╗ ███████╗████████╗██████╗  ██████╗
+ ██╔══██╗██╔════╝╚══██╔══╝██╔══██╗██╔═══██╗
+ ██████╔╝█████╗     ██║   ██████╔╝██║   ██║
+ ██╔══██╗██╔══╝     ██║   ██╔══██╗██║   ██║
+ ██║  ██║███████╗   ██║   ██║  ██║╚██████╔╝
+ ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝
+```
 
-### `UN FORJADOR DE CÓDIGO EN LINUX`
+### play music with command line 🎵
+
+> play music, then keep working on the terminal.
+
+![Release](https://img.shields.io/github/v/release/XORbit01/retro?style=for-the-badge&logo=github&logoColor=cba6f7&labelColor=1e1e2e&color=313244)
+![License](https://img.shields.io/github/license/XORbit01/retro?style=for-the-badge&logoColor=a6e3a1&labelColor=1e1e2e&color=313244)
+![Issues](https://img.shields.io/github/issues/XORbit01/retro?style=for-the-badge&logoColor=f38ba8&labelColor=1e1e2e&color=313244)
+![Stars](https://img.shields.io/github/stars/XORbit01/retro?style=for-the-badge&logoColor=f9e2af&labelColor=1e1e2e&color=313244)
+![Forks](https://img.shields.io/github/forks/XORbit01/retro?style=for-the-badge&logoColor=89b4fa&labelColor=1e1e2e&color=313244)
+![Watchers](https://img.shields.io/github/watchers/XORbit01/retro?style=for-the-badge&logoColor=89dceb&labelColor=1e1e2e&color=313244)
 
 </div>
 
 ---
 
-## 📌 About me
+## 🗺️ Map
 
-- 🐧 Desarrollador junior autodidacta, obsesionado con Linux y los entornos personalizados
-- 🦀 Actualmente enfocado en aprender **Rust** y **TypeScript / React** (mis prioridades)
-- ☕ También me muevo con **Java** y **Python** para scripting, backend y automatización
-- 🖥️ Mi setup: **CachyOS + Hyprland**, siempre "riceando" en Wayland
-- 🚀 Más allá del "Hello World": construyendo experiencias, no solo proyectos
-
-<br clear="right"/>
-
----
-
-## 🛠️ Skills
-
-**Lenguajes:**
-
-![Rust](https://img.shields.io/badge/Rust-1e1e2e?style=for-the-badge&logo=rust&logoColor=f38ba8)
-![TypeScript](https://img.shields.io/badge/TypeScript-1e1e2e?style=for-the-badge&logo=typescript&logoColor=89b4fa)
-![JavaScript](https://img.shields.io/badge/JavaScript-1e1e2e?style=for-the-badge&logo=javascript&logoColor=f9e2af)
-![Java](https://img.shields.io/badge/Java-1e1e2e?style=for-the-badge&logo=openjdk&logoColor=f38ba8)
-![Python](https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=a6e3a1)
-![PHP](https://img.shields.io/badge/PHP-1e1e2e?style=for-the-badge&logo=php&logoColor=cba6f7)
-
-**Front-End:**
-
-![React](https://img.shields.io/badge/React-1e1e2e?style=for-the-badge&logo=react&logoColor=89dceb)
-![HTML5](https://img.shields.io/badge/HTML5-1e1e2e?style=for-the-badge&logo=html5&logoColor=fab387)
-![CSS3](https://img.shields.io/badge/CSS3-1e1e2e?style=for-the-badge&logo=css3&logoColor=89b4fa)
-
-**Backend / Datos:**
-
-![Laravel](https://img.shields.io/badge/Laravel-1e1e2e?style=for-the-badge&logo=laravel&logoColor=f38ba8)
-![MySQL](https://img.shields.io/badge/MySQL-1e1e2e?style=for-the-badge&logo=mysql&logoColor=89b4fa)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e1e2e?style=for-the-badge&logo=postgresql&logoColor=89dceb)
-
-**Software y herramientas:**
-
-![Git](https://img.shields.io/badge/Git-1e1e2e?style=for-the-badge&logo=git&logoColor=f38ba8)
-![GitHub](https://img.shields.io/badge/GitHub-1e1e2e?style=for-the-badge&logo=github&logoColor=cdd6f4)
-![VS Code](https://img.shields.io/badge/VS%20Code-1e1e2e?style=for-the-badge&logo=visualstudiocode&logoColor=89b4fa)
-![Linux](https://img.shields.io/badge/Linux-1e1e2e?style=for-the-badge&logo=linux&logoColor=f9e2af)
-![Neovim](https://img.shields.io/badge/Neovim-1e1e2e?style=for-the-badge&logo=neovim&logoColor=a6e3a1)
+- [📦 Installation](#-installation)
+- [🎮 Music management](#-music-management)
+- [🎧 Playlist management](#-playlist-management)
+- [🚦 Controls](#-controls)
+- [⚙️ Configuration](#️-configuration)
+- [💾 Cache](#-cache)
+- [🌐 Update](#-update)
+- [📝 License](#-license)
+- [📢 Acknowledgments](#-acknowledgments)
 
 ---
 
-## `~$ cat distro_journey.log`
+## 📦 Installation
 
-> *"De distro en distro hasta encontrar el hogar"*
+**Install Retro**
 
+```bash
+wget https://github.com/XORbit01/retro/releases/download/v0.0.46/installer.tar.gz
+tar -xvf installer.tar.gz
+chmod +x installer.sh
+./installer.sh
 ```
 
-Linux Mint      ──▶  Primera distro, amigable y estable ✅
-Lubuntu         ──▶  Ligero, perfecto para hardware humilde 🪶
-Feren OS        ──▶  Bonito, pero quería más control 🎨
-MX Linux        ──▶  Sólido y clásico, gran comunidad 💪
-EndeavourOS     ──▶  Primera vez con Arch-based 👀
-Kubuntu         ──▶  KDE Plasma, muy personalizable 🖥️
-CachyOS         ──▶  Hogar actual. Rendimiento + Hyprland 🏠✨
+> This installer is for Linux systemd-based systems. On other systems, install manually by compiling from source and running the server with `make build`.
 
+**Uninstall Retro**
+
+```bash
+~/.local/bin/uninstall_retro.sh
 ```
 
 ---
 
-## 📊 Most Used Languages
+## 🎮 Music management
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Alejandro11r&show_icons=true&theme=catppuccin_mocha&count_private=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro11r&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&langs_count=8"/>
-</p>
+**Play music**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alejandro11r&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=cba6f7&fire=f38ba8&currStreakLabel=a6e3a1"/>
-</p>
+```bash
+retro play "Despacito - Luis Fonsi"                       # search and play music by name
+retro play "https://www.youtube.com/watch?v=kJQP7kiw5Fk"  # play music by url
+retro play queue_music                                    # play music from queue (by index too)
+retro play ~/Music/Despacito.mp3                          # play music by file path
+retro play ~/Music/                                       # play every song in a directory
+retro play playlist_name                                  # play music from a playlist
+```
 
----
+> The `play` command is smart enough to detect the source: name, url, file path, directory path, queue, or playlist. Music already in queue is prioritized.
 
-## `~$ cat currently_learning.md`
+**Status**
 
-```diff
-+ Rust en profundidad (ownership, lifetimes, concurrencia)
-+ TypeScript + React para proyectos reales
-+ Laravel & PHP avanzado
-+ Python para scripting y automatización
-+ Dotfiles & configuración de Hyprland
-- Todavía explorando qué rama me apasiona más
+```bash
+retro status  # 🎵 check queue status: downloading | searching, playing | paused, songs in queue
+```
+
+**Pause / Resume**
+
+```bash
+retro pause   # ⏸️
+retro resume  # ▶️
+```
+
+**Next / Previous**
+
+```bash
+retro next  # ⏭️
+retro prev  # ⏮️
+```
+
+**Remove music from queue**
+
+```bash
+retro remove music_name  # 🗑️ remove by name
+retro remove 1           # 🗑️ remove by index
+```
+
+**Adjust volume**
+
+```bash
+retro vol 50  # 🎚️ set volume to 50%
+retro vol 0   # 🔇 mute
+```
+
+**Stop queue**
+
+```bash
+retro stop  # 🛑
 ```
 
 ---
 
-## 🔗 Links
+## 🎧 Playlist management
 
-<p align="center">
-  <a href="https://github.com/Alejandro11r" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Alejandro11r-1e1e2e?style=for-the-badge&logo=github&logoColor=cba6f7&labelColor=313244"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/hugo-rodriguez-08b59b323" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Hugo%20Rodríguez-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=89b4fa&labelColor=313244"/>
-  </a>
-  &nbsp;
-  <a href="mailto:hugoalejandro.11r@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-hugoalejandro.11r-1e1e2e?style=for-the-badge&logo=gmail&logoColor=f38ba8&labelColor=313244"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/alejo_________7" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-alejo__7-1e1e2e?style=for-the-badge&logo=instagram&logoColor=f5c2e7&labelColor=313244"/>
-  </a>
-</p>
+**Create playlist**
+
+```bash
+retro list create my_playlist  # 📂
+```
+
+**Add music to playlist**
+
+```bash
+retro list add my_playlist "Despacito - Luis Fonsi"                       # ➕ search and add
+retro list add my_playlist "https://www.youtube.com/watch?v=kJQP7kiw5Fk"  # ➕ add by url
+retro list add my_playlist queue_music                                    # ➕ add from queue
+```
+
+> You can also add by file path or queue index/name.
+
+**Remove music from playlist**
+
+```bash
+retro list remove my_playlist "Despacito - Luis Fonsi"  # ➖ remove by name
+retro list remove my_playlist 1                          # ➖ remove by index
+```
+
+**Show playlist**
+
+```bash
+retro list my_playlist  # 📂 show all songs in the playlist
+```
+
+**Play playlist**
+
+```bash
+retro list play my_playlist  # 📂 queue up every song in the playlist
+```
+
+**Delete playlist**
+
+```bash
+retro list remove my_playlist  # 📂 delete the whole playlist
+```
 
 ---
+
+## 🚦 Controls
+
+**Logs**
+
+```bash
+retro logs        # 📜 last 200 lines
+retro logs info   # 📢 info logs only
+retro logs error  # 🚫 error logs only
+retro logs warn   # ⚠️ warning logs only
+```
+
+**Theme**
+
+```bash
+retro theme pink    # 🧼
+retro theme purple  # 🔮
+retro theme blue    # 🌊
+# TODO: retro theme custom
+```
+
+**Help**
+
+```bash
+retro help       # ❓ show all commands
+retro help play  # ❗ show help for the play command
+```
+
+---
+
+## 💾 Cache
+
+```bash
+retro cache        # 💾 show all cached data
+retro cache clear  # 🧹 clear all cache
+```
+
+---
+
+## ⚙️ Configuration
+
+**Config file**
+
+The config file lives by default at `~/.retro/config.json`. If it doesn't exist yet:
+
+```bash
+mkdir -p ~/.retro
+touch ~/.retro/config.json
+```
+
+**Default config**
+
+```json
+{
+  "retro_path": "~/.retro/",
+  "path_ytldpl": "yt-dlp",
+  "path_ffmpeg": "ffmpeg",
+  "path_ffprobe": "ffprobe",
+  "search_timeout": 60000000000,
+  "theme": "pink",
+  "db_path": "~/.retro/retro.db",
+  "discord_rpc": false,
+  "log_file": "~/.retro/retro.log",
+  "server_port": "3131"
+}
+```
+
+> 📝 You can edit the config manually — it's straightforward.
+
+**Notes**
+
+- ☝️ After changing the config file, restart the service: `systemctl --user restart retro`
+- ⚠️ The config file overrides default values.
+- 🤖 Set up the autocompletion script for a smoother experience — see `retro completion`.
+
+---
+
+## 🌐 Update
+
+```bash
+retro update  # updates retro to the latest version on GitHub
+```
+
+---
+
+## 📝 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
+
+---
+
+## 📢 Acknowledgments
 
 <div align="center">
 
 ```
-  feliz riceando en wayland desde colombia 🇨🇴
+  retro is made with ❤️
 ```
 
 ![](https://img.shields.io/badge/made%20with-catppuccin%20mocha-1e1e2e?style=flat-square&logoColor=cba6f7)
-![](https://visitor-badge.laobi.icu/badge?page_id=Alejandro11r.Alejandro11r)
 
 </div>
