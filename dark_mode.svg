@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas,'DejaVu Sans Mono',monospace" width="1180px" height="534px" font-size="13px">
+<style>
+.key {fill: #ffa657; font-weight: 600;}
+.value {fill: #a5d6ff;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+.ascii {font-size: 9px; fill: #7d8590;}
+</style>
+<rect width="1180px" height="534px" fill="#0d1117" rx="15"/>
+<text x="15" y="30" class="ascii">
+<tspan x="15" y="30">. ..=+-.:.:::-.... ..  ................:::.::::::---====</tspan>
+<tspan x="15" y="42">   .:--::. ........ .. .  ........:.::....:=::::::--::--</tspan>
+<tspan x="15" y="54">     ..  ..  .   ...::.:.  ........:::::---==-:...::::::</tspan>
+<tspan x="15" y="66">-::.--...:::::..:::::....:-....  ...:===+=+=.::....:.:  </tspan>
+<tspan x="15" y="78">########***##*+**+-=**=-:==. .       ..:..:.   .::..    </tspan>
+<tspan x="15" y="90">%%%%%%%%%#%%%%%%%%#%%%####+==+=-::::  ...:..    : ..    </tspan>
+<tspan x="15" y="102">##%###############%%#%%%%%%%%%%%%%#****##***+++===---=- </tspan>
+<tspan x="15" y="114">%#%%##%%%##############%%%%%%%%%%%%#%%%%%%%%%%%%%%%%#%#*</tspan>
+<tspan x="15" y="126">###%%%%%%%%%%%%%%%%%%%@%*=-::-+*%@%%%%%%##%%%%%%%%%%%%%%</tspan>
+<tspan x="15" y="138">###%%%#%######%%%%%#%*-.        :+%%%%%%####%%%%%%%%%%%%</tspan>
+<tspan x="15" y="150">%###############%####..:-=---:..  -#*##*#######%#%#%%%%%</tspan>
+<tspan x="15" y="162">###########%##%#%##%= ==--==---=:  *#%#######%##%#######</tspan>
+<tspan x="15" y="174">##*#**********####*#+.=:.:==-.:-= :%%%###%##%######%####</tspan>
+<tspan x="15" y="186">*****++++++=+********=+=-=--==-==:=%#######%#########%##</tspan>
+<tspan x="15" y="198">***+*+++*****#*****##*-::----:::-=*%####################</tspan>
+<tspan x="15" y="210">#####################%*------=--+%###***###*****#******#</tspan>
+<tspan x="15" y="222">******########********#+:::.:::-*###*#*######*##****++++</tspan>
+<tspan x="15" y="234">#*#*******#######**#***+--:.::--=####************##**++*</tspan>
+<tspan x="15" y="246">#####*#****#*****#%%%%*=--:::--+#%#%#####***+++*******+*</tspan>
+<tspan x="15" y="258">++++***########%#%%%%%%#*++++*#%%%#%%##%%%%%+=+=====++++</tspan>
+<tspan x="15" y="270">+*****######%%%%%###%@%%%%%%%%%%%%#%%######%@*===+=====+</tspan>
+<tspan x="15" y="282">******###**#######%%@%##%%%%%%%%%%%%%%###**#%@%+*****+**</tspan>
+<tspan x="15" y="294">++****+++=+##**##%%%%#%%%%#%%%%%%%%%%%%*****#%@%#####*##</tspan>
+<tspan x="15" y="306">=========-*###+###%##%%%####%%%%%%%%%#*+=++*##%%*****+**</tspan>
+<tspan x="15" y="318">-====-=--+%##*++*###%%####%%%%%#%%%###*=-++*##%@#+*+++++</tspan>
+<tspan x="15" y="330">===---===%%##*+==*###*###%%%%%####%%#*#*-=***##%%*******</tspan>
+</text>
+<text x="400" y="30" fill="#c9d1d9">
+<tspan x="400" y="30">xalejo@archlinux</tspan> ----------------------------------------------------
+<tspan x="400" y="52" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Arch Linux (2026.08.01) x86_64</tspan>
+<tspan x="400" y="74" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Linux 7.1.5</tspan>
+<tspan x="400" y="96" class="cc">. </tspan><tspan class="key">WM</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Hyprland (Wayland)</tspan>
+<tspan x="400" y="118" class="cc">. </tspan><tspan class="key">Shell</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">zsh</tspan>
+<tspan x="400" y="140" class="cc">. </tspan><tspan class="key">Age</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">20</tspan>
+<tspan x="400" y="184" class="cc">. </tspan><tspan class="key">Languages.Hablados</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Espanol (Nativo), Ingles (A2)</tspan>
+<tspan x="400" y="206" class="cc">. </tspan><tspan class="key">Languages.Backend</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Java, Python, Rust</tspan>
+<tspan x="400" y="228" class="cc">. </tspan><tspan class="key">Languages.Frontend</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">TypeScript, React, JavaScript</tspan>
+<tspan x="400" y="272" class="cc">. </tspan><tspan class="key">Hobbies.Linux</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Ricing, dotfiles, personalizacion</tspan>
+<tspan x="400" y="294" class="cc">. </tspan><tspan class="key">Hobbies.Systems</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Hyprland, Wayland, CachyOS</tspan>
+<tspan x="400" y="316">- Contact</tspan> ---------------------------------------------------
+<tspan x="400" y="338" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">github.com/Alejandro11r</tspan>
+<tspan x="400" y="360" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">hugoalejandro.11r@gmail.com</tspan>
+<tspan x="400" y="382" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Hugo Rodriguez</tspan>
+<tspan x="400" y="404" class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">alejo_________7</tspan>
+<tspan x="400" y="426">- GitHub Stats</tspan> ----------------------------------------------
+<tspan x="400" y="448" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">18</tspan><tspan class="cc">   |   </tspan><tspan class="key">Followers</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">3</tspan>
+<tspan x="400" y="470" class="cc">. </tspan><tspan class="key">Forks</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">1</tspan><tspan class="cc">   |   </tspan><tspan class="key">Following</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">4</tspan>
+<tspan x="400" y="492" class="cc">. </tspan><tspan class="key">Top Langs</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Java, JavaScript, CSS</tspan>
+</text>
+</svg>
