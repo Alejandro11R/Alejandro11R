@@ -1,46 +1,49 @@
 <div align="center">
 
-```
- ██████╗ ███████╗████████╗██████╗  ██████╗
- ██╔══██╗██╔════╝╚══██╔══╝██╔══██╗██╔═══██╗
- ██████╔╝█████╗     ██║   ██████╔╝██║   ██║
- ██╔══██╗██╔══╝     ██║   ██╔══██╗██║   ██║
- ██║  ██║███████╗   ██║   ██║  ██║╚██████╔╝
- ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝
-```
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=32&pause=1000&color=CBA6F7&center=true&vCenter=true&width=500&height=60&lines=retro" />
 
-### play music with command line 🎵
+**play music with the command line, then keep working**
 
-> play music, then keep working on the terminal.
+<br/>
 
-![Release](https://img.shields.io/github/v/release/XORbit01/retro?style=for-the-badge&logo=github&logoColor=cba6f7&labelColor=1e1e2e&color=313244)
-![License](https://img.shields.io/github/license/XORbit01/retro?style=for-the-badge&logoColor=a6e3a1&labelColor=1e1e2e&color=313244)
-![Issues](https://img.shields.io/github/issues/XORbit01/retro?style=for-the-badge&logoColor=f38ba8&labelColor=1e1e2e&color=313244)
-![Stars](https://img.shields.io/github/stars/XORbit01/retro?style=for-the-badge&logoColor=f9e2af&labelColor=1e1e2e&color=313244)
-![Forks](https://img.shields.io/github/forks/XORbit01/retro?style=for-the-badge&logoColor=89b4fa&labelColor=1e1e2e&color=313244)
-![Watchers](https://img.shields.io/github/watchers/XORbit01/retro?style=for-the-badge&logoColor=89dceb&labelColor=1e1e2e&color=313244)
+![release](https://img.shields.io/github/v/release/XORbit01/retro?style=for-the-badge&logoColor=cba6f7&labelColor=11111b&color=1e1e2e)
+![license](https://img.shields.io/github/license/XORbit01/retro?style=for-the-badge&logoColor=a6e3a1&labelColor=11111b&color=1e1e2e)
+![stars](https://img.shields.io/github/stars/XORbit01/retro?style=for-the-badge&logoColor=f9e2af&labelColor=11111b&color=1e1e2e)
+![issues](https://img.shields.io/github/issues/XORbit01/retro?style=for-the-badge&logoColor=f38ba8&labelColor=11111b&color=1e1e2e)
+![go](https://img.shields.io/badge/built%20with-go-1e1e2e?style=for-the-badge&logo=go&logoColor=89dceb&labelColor=11111b)
+
+<br/>
+
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="600px"/>
 
 </div>
 
----
+<br/>
 
-## 🗺️ Map
+`retro` busca, descarga y reproduce música desde YouTube (o tu disco) directo en la terminal — sin abrir el navegador, sin dejar el shell.
 
-- [📦 Installation](#-installation)
-- [🎮 Music management](#-music-management)
-- [🎧 Playlist management](#-playlist-management)
-- [🚦 Controls](#-controls)
-- [⚙️ Configuration](#️-configuration)
-- [💾 Cache](#-cache)
-- [🌐 Update](#-update)
-- [📝 License](#-license)
-- [📢 Acknowledgments](#-acknowledgments)
+```bash
+retro play "Despacito - Luis Fonsi"
+```
 
----
+y listo, sigue sonando mientras trabajas. 🎧
 
-## 📦 Installation
+<br/>
 
-**Install Retro**
+## ✨ Por qué retro
+
+| | |
+|---|---|
+| 🔍 **Busca por lo que sea** | nombre, URL, ruta de archivo, carpeta completa o playlist — `retro` detecta la fuente solo |
+| 📼 **Cola inteligente** | prioriza lo que ya pusiste en cola antes de buscar algo nuevo |
+| 🎧 **Playlists reales** | crea, edita, reproduce y borra playlists desde la terminal |
+| 🎨 **Temas** | pink, purple, blue — o el tuyo propio (en camino) |
+| 🌐 **Se auto-actualiza** | `retro update` y ya tienes la última versión desde GitHub |
+| 🪶 **Ligero** | un solo binario, systemd service, sin dependencias raras aparte de `yt-dlp` y `ffmpeg` |
+
+<br/>
+
+## 📦 Quick start
 
 ```bash
 wget https://github.com/XORbit01/retro/releases/download/v0.0.46/installer.tar.gz
@@ -49,168 +52,123 @@ chmod +x installer.sh
 ./installer.sh
 ```
 
-> This installer is for Linux systemd-based systems. On other systems, install manually by compiling from source and running the server with `make build`.
+> Pensado para Linux con systemd. ¿Otro sistema? compílalo desde código fuente con `make build`.
 
-**Uninstall Retro**
+Desinstalar:
 
 ```bash
 ~/.local/bin/uninstall_retro.sh
 ```
 
----
+<br/>
 
-## 🎮 Music management
-
-**Play music**
+## 🚀 Uso básico
 
 ```bash
-retro play "Despacito - Luis Fonsi"                       # search and play music by name
-retro play "https://www.youtube.com/watch?v=kJQP7kiw5Fk"  # play music by url
-retro play queue_music                                    # play music from queue (by index too)
-retro play ~/Music/Despacito.mp3                          # play music by file path
-retro play ~/Music/                                       # play every song in a directory
-retro play playlist_name                                  # play music from a playlist
+retro play "Despacito - Luis Fonsi"                      # buscar y reproducir por nombre
+retro play "https://www.youtube.com/watch?v=kJQP7kiw5Fk" # reproducir por url
+retro play ~/Music/                                       # reproducir toda una carpeta
+retro status                                               # ver qué está sonando
+retro pause / retro resume                                 # pausar / reanudar
+retro next / retro prev                                    # siguiente / anterior
+retro vol 50                                                # ajustar volumen
 ```
 
-> The `play` command is smart enough to detect the source: name, url, file path, directory path, queue, or playlist. Music already in queue is prioritized.
+<br/>
 
-**Status**
+## 📖 Referencia completa
+
+<details>
+<summary><b>🎮 Gestión de música</b></summary>
+<br/>
 
 ```bash
-retro status  # 🎵 check queue status: downloading | searching, playing | paused, songs in queue
+retro play "Despacito - Luis Fonsi"                       # buscar y reproducir por nombre
+retro play "https://www.youtube.com/watch?v=kJQP7kiw5Fk"  # reproducir por url
+retro play queue_music                                     # reproducir desde la cola (por índice también)
+retro play ~/Music/Despacito.mp3                            # reproducir por ruta de archivo
+retro play ~/Music/                                          # reproducir todo lo de una carpeta
+retro play playlist_name                                    # reproducir una playlist
+
+retro status         # 🎵 ver estado: descargando/buscando, reproduciendo/pausado, cola
+retro pause          # ⏸️
+retro resume         # ▶️
+retro next           # ⏭️
+retro prev           # ⏮️
+retro remove music_name   # 🗑️ quitar de la cola por nombre
+retro remove 1            # 🗑️ quitar de la cola por índice
+retro vol 50          # 🎚️ volumen al 50%
+retro vol 0           # 🔇 mute
+retro stop            # 🛑 detener la cola
 ```
 
-**Pause / Resume**
+</details>
+
+<details>
+<summary><b>🎧 Gestión de playlists</b></summary>
+<br/>
 
 ```bash
-retro pause   # ⏸️
-retro resume  # ▶️
+retro list create my_playlist                                       # 📂 crear playlist
+
+retro list add my_playlist "Despacito - Luis Fonsi"                 # ➕ agregar buscando
+retro list add my_playlist "https://www.youtube.com/watch?v=..."    # ➕ agregar por url
+retro list add my_playlist queue_music                               # ➕ agregar desde la cola
+
+retro list remove my_playlist "Despacito - Luis Fonsi"               # ➖ quitar por nombre
+retro list remove my_playlist 1                                      # ➖ quitar por índice
+
+retro list my_playlist       # 📂 ver canciones de la playlist
+retro list play my_playlist  # 📂 encolar toda la playlist
+retro list remove my_playlist # 📂 borrar la playlist completa
 ```
 
-**Next / Previous**
+</details>
+
+<details>
+<summary><b>🚦 Controles y logs</b></summary>
+<br/>
 
 ```bash
-retro next  # ⏭️
-retro prev  # ⏮️
-```
+retro logs         # 📜 últimas 200 líneas
+retro logs info    # 📢 solo info
+retro logs error   # 🚫 solo errores
+retro logs warn    # ⚠️ solo warnings
 
-**Remove music from queue**
-
-```bash
-retro remove music_name  # 🗑️ remove by name
-retro remove 1           # 🗑️ remove by index
-```
-
-**Adjust volume**
-
-```bash
-retro vol 50  # 🎚️ set volume to 50%
-retro vol 0   # 🔇 mute
-```
-
-**Stop queue**
-
-```bash
-retro stop  # 🛑
-```
-
----
-
-## 🎧 Playlist management
-
-**Create playlist**
-
-```bash
-retro list create my_playlist  # 📂
-```
-
-**Add music to playlist**
-
-```bash
-retro list add my_playlist "Despacito - Luis Fonsi"                       # ➕ search and add
-retro list add my_playlist "https://www.youtube.com/watch?v=kJQP7kiw5Fk"  # ➕ add by url
-retro list add my_playlist queue_music                                    # ➕ add from queue
-```
-
-> You can also add by file path or queue index/name.
-
-**Remove music from playlist**
-
-```bash
-retro list remove my_playlist "Despacito - Luis Fonsi"  # ➖ remove by name
-retro list remove my_playlist 1                          # ➖ remove by index
-```
-
-**Show playlist**
-
-```bash
-retro list my_playlist  # 📂 show all songs in the playlist
-```
-
-**Play playlist**
-
-```bash
-retro list play my_playlist  # 📂 queue up every song in the playlist
-```
-
-**Delete playlist**
-
-```bash
-retro list remove my_playlist  # 📂 delete the whole playlist
-```
-
----
-
-## 🚦 Controls
-
-**Logs**
-
-```bash
-retro logs        # 📜 last 200 lines
-retro logs info   # 📢 info logs only
-retro logs error  # 🚫 error logs only
-retro logs warn   # ⚠️ warning logs only
-```
-
-**Theme**
-
-```bash
 retro theme pink    # 🧼
 retro theme purple  # 🔮
 retro theme blue    # 🌊
 # TODO: retro theme custom
+
+retro help        # ❓ ver todos los comandos
+retro help play   # ❗ ayuda del comando play
 ```
 
-**Help**
+</details>
+
+<details>
+<summary><b>💾 Cache</b></summary>
+<br/>
 
 ```bash
-retro help       # ❓ show all commands
-retro help play  # ❗ show help for the play command
+retro cache        # 💾 ver todo lo cacheado
+retro cache clear  # 🧹 limpiar cache
 ```
 
----
+</details>
 
-## 💾 Cache
+<details>
+<summary><b>⚙️ Configuración</b></summary>
+<br/>
 
-```bash
-retro cache        # 💾 show all cached data
-retro cache clear  # 🧹 clear all cache
-```
-
----
-
-## ⚙️ Configuration
-
-**Config file**
-
-The config file lives by default at `~/.retro/config.json`. If it doesn't exist yet:
+El archivo vive en `~/.retro/config.json`. Si no existe:
 
 ```bash
 mkdir -p ~/.retro
 touch ~/.retro/config.json
 ```
 
-**Default config**
+Config por defecto:
 
 ```json
 {
@@ -227,38 +185,37 @@ touch ~/.retro/config.json
 }
 ```
 
-> 📝 You can edit the config manually — it's straightforward.
+- ☝️ Tras editar el config, reinicia el servicio: `systemctl --user restart retro`
+- ⚠️ El config sobreescribe los valores por defecto
+- 🤖 Configura el autocompletado con `retro completion` para mejor experiencia
 
-**Notes**
+</details>
 
-- ☝️ After changing the config file, restart the service: `systemctl --user restart retro`
-- ⚠️ The config file overrides default values.
-- 🤖 Set up the autocompletion script for a smoother experience — see `retro completion`.
-
----
-
-## 🌐 Update
+<details>
+<summary><b>🌐 Update</b></summary>
+<br/>
 
 ```bash
-retro update  # updates retro to the latest version on GitHub
+retro update
 ```
 
----
+Actualiza retro a la última versión publicada en GitHub.
 
-## 📝 License
+</details>
 
-This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
+<br/>
 
----
+## 📝 Licencia
 
-## 📢 Acknowledgments
+MIT — mira [LICENSE](./LICENSE) para más detalles.
+
+## 📢 Agradecimientos
+
+Gracias a nuestro sponsor **@HelloHabiba** ☕
 
 <div align="center">
 
-```
-  retro is made with ❤️
-```
 
-![](https://img.shields.io/badge/made%20with-catppuccin%20mocha-1e1e2e?style=flat-square&logoColor=cba6f7)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=XORbit01.retro" />
 
 </div>
