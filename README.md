@@ -1,221 +1,146 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=32&pause=1000&color=CBA6F7&center=true&vCenter=true&width=500&height=60&lines=retro" />
+```
+ ██████╗ █████╗  ██████╗██╗  ██╗██╗   ██╗ ██████╗ ███████╗
+██╔════╝██╔══██╗██╔════╝██║  ██║╚██╗ ██╔╝██╔═══██╗██╔════╝
+██║     ███████║██║     ███████║ ╚████╔╝ ██║   ██║███████╗
+██║     ██╔══██║██║     ██╔══██║  ╚██╔╝  ██║   ██║╚════██║
+╚██████╗██║  ██║╚██████╗██║  ██║   ██║   ╚██████╔╝███████║
+ ╚═════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚══════╝
+```
 
-**play music with the command line, then keep working**
+<a href="https://github.com/Alejandro11r">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+junior+%7C+Java+%C2%B7+Python+%C2%B7+Rust;Aprendiendo+TypeScript+%2B+React;Linux+enthusiast+%7C+CachyOS+%2B+Hyprland;Aprendiendo+cada+d%C3%ADa+:)&font=JetBrains+Mono&center=true&width=600&height=50&color=cba6f7&vCenter=true&size=18&pause=800">
+</a>
 
 <br/>
 
-![release](https://img.shields.io/github/v/release/XORbit01/retro?style=for-the-badge&logoColor=cba6f7&labelColor=11111b&color=1e1e2e)
-![license](https://img.shields.io/github/license/XORbit01/retro?style=for-the-badge&logoColor=a6e3a1&labelColor=11111b&color=1e1e2e)
-![stars](https://img.shields.io/github/stars/XORbit01/retro?style=for-the-badge&logoColor=f9e2af&labelColor=11111b&color=1e1e2e)
-![issues](https://img.shields.io/github/issues/XORbit01/retro?style=for-the-badge&logoColor=f38ba8&labelColor=11111b&color=1e1e2e)
-![go](https://img.shields.io/badge/built%20with-go-1e1e2e?style=for-the-badge&logo=go&logoColor=89dceb&labelColor=11111b)
-
-<br/>
-
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="600px"/>
+![](https://img.shields.io/badge/OS-CachyOS-1e1e2e?style=flat-square&logo=archlinux&logoColor=cba6f7)
+![](https://img.shields.io/badge/WM-Hyprland-1e1e2e?style=flat-square&logo=wayland&logoColor=89b4fa)
+![](https://img.shields.io/badge/Shell-zsh-1e1e2e?style=flat-square&logo=gnubash&logoColor=a6e3a1)
+![](https://img.shields.io/badge/Kernel-Linux-1e1e2e?style=flat-square&logo=linux&logoColor=f9e2af)
 
 </div>
 
-<br/>
+---
 
-`retro` busca, descarga y reproduce música desde YouTube (o tu disco) directo en la terminal — sin abrir el navegador, sin dejar el shell.
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" style="margin-left: 20px"/>
 
-```bash
-retro play "Despacito - Luis Fonsi"
+## `~$ whoami`
+
+Hola, soy **Alejandro Rodríguez** 👋 — desarrollador junior construyendo con **Java, Python y Rust**, mientras aprendo **TypeScript + React** para el front-end.
+
+Fuera del código, tengo una obsesión seria por Linux: llevo más de un año armando y reafinando mi entorno.
+
+```yaml
+distro:    CachyOS        # performance-first Arch-based
+wm:        Hyprland       # Wayland compositor ✨
+terminal:  kitty / alacritty
+enfoque:   backend + systems, explorando front-end
 ```
 
-y listo, sigue sonando mientras trabajas. 🎧
+No soy experto en todo todavía, pero sí muy curioso 🚀
 
-<br/>
+<br clear="right"/>
 
-## ✨ Por qué retro
+---
 
-| | |
-|---|---|
-| 🔍 **Busca por lo que sea** | nombre, URL, ruta de archivo, carpeta completa o playlist — `retro` detecta la fuente solo |
-| 📼 **Cola inteligente** | prioriza lo que ya pusiste en cola antes de buscar algo nuevo |
-| 🎧 **Playlists reales** | crea, edita, reproduce y borra playlists desde la terminal |
-| 🎨 **Temas** | pink, purple, blue — o el tuyo propio (en camino) |
-| 🌐 **Se auto-actualiza** | `retro update` y ya tienes la última versión desde GitHub |
-| 🪶 **Ligero** | un solo binario, systemd service, sin dependencias raras aparte de `yt-dlp` y `ffmpeg` |
+## `~$ cat distro_journey.log`
 
-<br/>
+> *"De distro en distro hasta encontrar el hogar"*
 
-## 📦 Quick start
-
-```bash
-wget https://github.com/XORbit01/retro/releases/download/v0.0.46/installer.tar.gz
-tar -xvf installer.tar.gz
-chmod +x installer.sh
-./installer.sh
+```
+Linux Mint      ──▶  Primera distro, amigable y estable ✅
+Lubuntu         ──▶  Ligero, perfecto para hardware humilde 🪶
+Feren OS        ──▶  Bonito, pero quería más control 🎨
+MX Linux        ──▶  Sólido y clásico, gran comunidad 💪
+EndeavourOS     ──▶  Primera vez con Arch-based 👀
+Kubuntu         ──▶  KDE Plasma, muy personalizable 🖥️
+CachyOS         ──▶  Hogar actual. Rendimiento + Hyprland 🏠✨
 ```
 
-> Pensado para Linux con systemd. ¿Otro sistema? compílalo desde código fuente con `make build`.
+---
 
-Desinstalar:
+## `~$ ls ~/stack/`
 
-```bash
-~/.local/bin/uninstall_retro.sh
+**Lenguajes**
+
+![Java](https://img.shields.io/badge/Java-1e1e2e?style=for-the-badge&logo=openjdk&logoColor=f38ba8)
+![Python](https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=a6e3a1)
+![Rust](https://img.shields.io/badge/Rust-1e1e2e?style=for-the-badge&logo=rust&logoColor=fab387)
+![TypeScript](https://img.shields.io/badge/TypeScript-1e1e2e?style=for-the-badge&logo=typescript&logoColor=89b4fa)
+
+**Front-end / Web**
+
+![React](https://img.shields.io/badge/React-1e1e2e?style=for-the-badge&logo=react&logoColor=89dceb)
+![JavaScript](https://img.shields.io/badge/JavaScript-1e1e2e?style=for-the-badge&logo=javascript&logoColor=f9e2af)
+![HTML5](https://img.shields.io/badge/HTML5-1e1e2e?style=for-the-badge&logo=html5&logoColor=fab387)
+![CSS3](https://img.shields.io/badge/CSS3-1e1e2e?style=for-the-badge&logo=css3&logoColor=cba6f7)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-1e1e2e?style=for-the-badge&logo=git&logoColor=f38ba8)
+![Linux](https://img.shields.io/badge/Linux-1e1e2e?style=for-the-badge&logo=linux&logoColor=cdd6f4)
+![Neovim](https://img.shields.io/badge/Neovim-1e1e2e?style=for-the-badge&logo=neovim&logoColor=a6e3a1)
+
+> Solo muestro lo que uso de verdad, no todo lo que he tocado alguna vez.
+
+---
+
+## `~$ neofetch --stats`
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Alejandro11r&show_icons=true&theme=catppuccin_mocha&count_private=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro11r&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&langs_count=6"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alejandro11r&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=cba6f7&fire=f38ba8&currStreakLabel=a6e3a1"/>
+</p>
+
+---
+
+## `~$ cat currently_learning.md`
+
+```diff
++ Rust: ownership, lifetimes y concurrencia
++ TypeScript + React para proyectos reales
++ Dotfiles & configuración de Hyprland
++ SQL y diseño de bases de datos relacionales
+- Todavía explorando qué rama me apasiona más
 ```
 
-<br/>
+---
 
-## 🚀 Uso básico
+## `~$ contact --me`
 
-```bash
-retro play "Despacito - Luis Fonsi"                      # buscar y reproducir por nombre
-retro play "https://www.youtube.com/watch?v=kJQP7kiw5Fk" # reproducir por url
-retro play ~/Music/                                       # reproducir toda una carpeta
-retro status                                               # ver qué está sonando
-retro pause / retro resume                                 # pausar / reanudar
-retro next / retro prev                                    # siguiente / anterior
-retro vol 50                                                # ajustar volumen
-```
+<p align="center">
+  <a href="https://github.com/Alejandro11r" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Alejandro11r-1e1e2e?style=for-the-badge&logo=github&logoColor=cba6f7&labelColor=313244"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/hugo-rodriguez-08b59b323" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Hugo%20Rodr%C3%ADguez-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=89b4fa&labelColor=313244"/>
+  </a>
+  &nbsp;
+  <a href="mailto:hugoalejandro.11r@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-hugoalejandro.11r-1e1e2e?style=for-the-badge&logo=gmail&logoColor=f38ba8&labelColor=313244"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/alejo_________7" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-alejo__7-1e1e2e?style=for-the-badge&logo=instagram&logoColor=f5c2e7&labelColor=313244"/>
+  </a>
+</p>
 
-<br/>
-
-## 📖 Referencia completa
-
-<details>
-<summary><b>🎮 Gestión de música</b></summary>
-<br/>
-
-```bash
-retro play "Despacito - Luis Fonsi"                       # buscar y reproducir por nombre
-retro play "https://www.youtube.com/watch?v=kJQP7kiw5Fk"  # reproducir por url
-retro play queue_music                                     # reproducir desde la cola (por índice también)
-retro play ~/Music/Despacito.mp3                            # reproducir por ruta de archivo
-retro play ~/Music/                                          # reproducir todo lo de una carpeta
-retro play playlist_name                                    # reproducir una playlist
-
-retro status         # 🎵 ver estado: descargando/buscando, reproduciendo/pausado, cola
-retro pause          # ⏸️
-retro resume         # ▶️
-retro next           # ⏭️
-retro prev           # ⏮️
-retro remove music_name   # 🗑️ quitar de la cola por nombre
-retro remove 1            # 🗑️ quitar de la cola por índice
-retro vol 50          # 🎚️ volumen al 50%
-retro vol 0           # 🔇 mute
-retro stop            # 🛑 detener la cola
-```
-
-</details>
-
-<details>
-<summary><b>🎧 Gestión de playlists</b></summary>
-<br/>
-
-```bash
-retro list create my_playlist                                       # 📂 crear playlist
-
-retro list add my_playlist "Despacito - Luis Fonsi"                 # ➕ agregar buscando
-retro list add my_playlist "https://www.youtube.com/watch?v=..."    # ➕ agregar por url
-retro list add my_playlist queue_music                               # ➕ agregar desde la cola
-
-retro list remove my_playlist "Despacito - Luis Fonsi"               # ➖ quitar por nombre
-retro list remove my_playlist 1                                      # ➖ quitar por índice
-
-retro list my_playlist       # 📂 ver canciones de la playlist
-retro list play my_playlist  # 📂 encolar toda la playlist
-retro list remove my_playlist # 📂 borrar la playlist completa
-```
-
-</details>
-
-<details>
-<summary><b>🚦 Controles y logs</b></summary>
-<br/>
-
-```bash
-retro logs         # 📜 últimas 200 líneas
-retro logs info    # 📢 solo info
-retro logs error   # 🚫 solo errores
-retro logs warn    # ⚠️ solo warnings
-
-retro theme pink    # 🧼
-retro theme purple  # 🔮
-retro theme blue    # 🌊
-# TODO: retro theme custom
-
-retro help        # ❓ ver todos los comandos
-retro help play   # ❗ ayuda del comando play
-```
-
-</details>
-
-<details>
-<summary><b>💾 Cache</b></summary>
-<br/>
-
-```bash
-retro cache        # 💾 ver todo lo cacheado
-retro cache clear  # 🧹 limpiar cache
-```
-
-</details>
-
-<details>
-<summary><b>⚙️ Configuración</b></summary>
-<br/>
-
-El archivo vive en `~/.retro/config.json`. Si no existe:
-
-```bash
-mkdir -p ~/.retro
-touch ~/.retro/config.json
-```
-
-Config por defecto:
-
-```json
-{
-  "retro_path": "~/.retro/",
-  "path_ytldpl": "yt-dlp",
-  "path_ffmpeg": "ffmpeg",
-  "path_ffprobe": "ffprobe",
-  "search_timeout": 60000000000,
-  "theme": "pink",
-  "db_path": "~/.retro/retro.db",
-  "discord_rpc": false,
-  "log_file": "~/.retro/retro.log",
-  "server_port": "3131"
-}
-```
-
-- ☝️ Tras editar el config, reinicia el servicio: `systemctl --user restart retro`
-- ⚠️ El config sobreescribe los valores por defecto
-- 🤖 Configura el autocompletado con `retro completion` para mejor experiencia
-
-</details>
-
-<details>
-<summary><b>🌐 Update</b></summary>
-<br/>
-
-```bash
-retro update
-```
-
-Actualiza retro a la última versión publicada en GitHub.
-
-</details>
-
-<br/>
-
-## 📝 Licencia
-
-MIT — mira [LICENSE](./LICENSE) para más detalles.
-
-## 📢 Agradecimientos
-
-Gracias a nuestro sponsor **@HelloHabiba** ☕
+---
 
 <div align="center">
 
+```
+  feliz riceando en wayland desde colombia 🇨🇴
+```
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=XORbit01.retro" />
+![](https://img.shields.io/badge/made%20with-catppuccin%20mocha-1e1e2e?style=flat-square&logoColor=cba6f7)
+![](https://visitor-badge.laobi.icu/badge?page_id=Alejandro11r.Alejandro11r)
 
 </div>
