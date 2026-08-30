@@ -1,47 +1,55 @@
 <div align="center">
 
-```
- ██████╗ █████╗  ██████╗██╗  ██╗██╗   ██╗ ██████╗ ███████╗
-██╔════╝██╔══██╗██╔════╝██║  ██║╚██╗ ██╔╝██╔═══██╗██╔════╝
-██║     ███████║██║     ███████║ ╚████╔╝ ██║   ██║███████╗
-██║     ██╔══██║██║     ██╔══██║  ╚██╔╝  ██║   ██║╚════██║
-╚██████╗██║  ██║╚██████╗██║  ██║   ██║   ╚██████╔╝███████║
- ╚═════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚══════╝
-```
+# Hi, I'm Alejandro 👋
 
-<a href="https://github.com/Alejandro11r">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+en+formación;Linux+enthusiast+%7C+CachyOS+%2B+Hyprland;Explorando+el+mundo+del+código;Aprendiendo+cada+día+:)&font=JetBrains+Mono&center=true&width=600&height=50&color=cba6f7&vCenter=true&size=18&pause=800">
-</a>
-
-<br/>
-
-![](https://img.shields.io/badge/OS-CachyOS-1e1e2e?style=flat-square&logo=archlinux&logoColor=cba6f7)
-![](https://img.shields.io/badge/WM-Hyprland-1e1e2e?style=flat-square&logo=wayland&logoColor=89b4fa)
-![](https://img.shields.io/badge/Shell-zsh-1e1e2e?style=flat-square&logo=gnubash&logoColor=a6e3a1)
-![](https://img.shields.io/badge/Editor-Neovim%20%2F%20VSCode-1e1e2e?style=flat-square&logo=neovim&logoColor=cba6f7)
-![](https://img.shields.io/badge/Kernel-Linux-1e1e2e?style=flat-square&logo=linux&logoColor=f9e2af)
+### `UN FORJADOR DE CÓDIGO EN LINUX`
 
 </div>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320px" style="margin-left: 20px"/>
+## 📌 About me
 
-## `~$ whoami`
-
-Hola, soy **Alejandro Rodríguez** — desarrollador junior con una obsesión seria por Linux y los entornos personalizados.
-
-Llevo **más de un año explorando el ecosistema Linux**, pasando por varias distros hasta encontrar mi setup ideal:
-
-```yaml
-distro:    CachyOS        # performance-first Arch-based
-wm:        Hyprland       # Wayland compositor ✨
-terminal:  kitty / alacritty
-```
-
-Me dedico a aprender desarrollo web mientras sigo profundizando en el mundo open source. No soy experto en todo todavía, pero sí muy curioso 🚀
+- 🐧 Desarrollador junior autodidacta, obsesionado con Linux y los entornos personalizados
+- 🦀 Actualmente enfocado en aprender **Rust** y **TypeScript / React** (mis prioridades)
+- ☕ También me muevo con **Java** y **Python** para scripting, backend y automatización
+- 🖥️ Mi setup: **CachyOS + Hyprland**, siempre "riceando" en Wayland
+- 🚀 Más allá del "Hello World": construyendo experiencias, no solo proyectos
 
 <br clear="right"/>
+
+---
+
+## 🛠️ Skills
+
+**Lenguajes:**
+
+![Rust](https://img.shields.io/badge/Rust-1e1e2e?style=for-the-badge&logo=rust&logoColor=f38ba8)
+![TypeScript](https://img.shields.io/badge/TypeScript-1e1e2e?style=for-the-badge&logo=typescript&logoColor=89b4fa)
+![JavaScript](https://img.shields.io/badge/JavaScript-1e1e2e?style=for-the-badge&logo=javascript&logoColor=f9e2af)
+![Java](https://img.shields.io/badge/Java-1e1e2e?style=for-the-badge&logo=openjdk&logoColor=f38ba8)
+![Python](https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=a6e3a1)
+![PHP](https://img.shields.io/badge/PHP-1e1e2e?style=for-the-badge&logo=php&logoColor=cba6f7)
+
+**Front-End:**
+
+![React](https://img.shields.io/badge/React-1e1e2e?style=for-the-badge&logo=react&logoColor=89dceb)
+![HTML5](https://img.shields.io/badge/HTML5-1e1e2e?style=for-the-badge&logo=html5&logoColor=fab387)
+![CSS3](https://img.shields.io/badge/CSS3-1e1e2e?style=for-the-badge&logo=css3&logoColor=89b4fa)
+
+**Backend / Datos:**
+
+![Laravel](https://img.shields.io/badge/Laravel-1e1e2e?style=for-the-badge&logo=laravel&logoColor=f38ba8)
+![MySQL](https://img.shields.io/badge/MySQL-1e1e2e?style=for-the-badge&logo=mysql&logoColor=89b4fa)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e1e2e?style=for-the-badge&logo=postgresql&logoColor=89dceb)
+
+**Software y herramientas:**
+
+![Git](https://img.shields.io/badge/Git-1e1e2e?style=for-the-badge&logo=git&logoColor=f38ba8)
+![GitHub](https://img.shields.io/badge/GitHub-1e1e2e?style=for-the-badge&logo=github&logoColor=cdd6f4)
+![VS Code](https://img.shields.io/badge/VS%20Code-1e1e2e?style=for-the-badge&logo=visualstudiocode&logoColor=89b4fa)
+![Linux](https://img.shields.io/badge/Linux-1e1e2e?style=for-the-badge&logo=linux&logoColor=f9e2af)
+![Neovim](https://img.shields.io/badge/Neovim-1e1e2e?style=for-the-badge&logo=neovim&logoColor=a6e3a1)
 
 ---
 
@@ -50,6 +58,7 @@ Me dedico a aprender desarrollo web mientras sigo profundizando en el mundo open
 > *"De distro en distro hasta encontrar el hogar"*
 
 ```
+
 Linux Mint      ──▶  Primera distro, amigable y estable ✅
 Lubuntu         ──▶  Ligero, perfecto para hardware humilde 🪶
 Feren OS        ──▶  Bonito, pero quería más control 🎨
@@ -57,70 +66,16 @@ MX Linux        ──▶  Sólido y clásico, gran comunidad 💪
 EndeavourOS     ──▶  Primera vez con Arch-based 👀
 Kubuntu         ──▶  KDE Plasma, muy personalizable 🖥️
 CachyOS         ──▶  Hogar actual. Rendimiento + Hyprland 🏠✨
+
 ```
 
 ---
 
-## `~$ ls ~/skills/`
-
-> Soy junior — honesto con lo que sé y lo que estoy aprendiendo
-
-<table align="center">
-  <tr>
-    <th>Frontend</th>
-    <th>Backend</th>
-    <th>Datos</th>
-    <th>Dev Tools</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="40" title="HTML5"/><br/>HTML5
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=php" width="40" title="PHP"/><br/>PHP
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" width="40" title="MySQL"/><br/>MySQL
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" width="40" title="Git"/><br/>Git
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="40" title="CSS3"/><br/>CSS3
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=laravel" width="40" title="Laravel"/><br/>Laravel
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgres" width="40" title="PostgreSQL"/><br/>PostgreSQL
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=linux" width="40" title="Linux"/><br/>Linux
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=js" width="40" title="JavaScript"/><br/>JavaScript
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" width="40" title="Python"/><br/>Python
-    </td>
-    <td></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=github" width="40" title="GitHub"/><br/>GitHub
-    </td>
-  </tr>
-</table>
-
----
-
-## `~$ neofetch --stats`
+## 📊 Most Used Languages
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Alejandro11r&show_icons=true&theme=catppuccin_mocha&count_private=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro11r&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&langs_count=6"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro11r&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&langs_count=8"/>
 </p>
 
 <p align="center">
@@ -132,16 +87,17 @@ CachyOS         ──▶  Hogar actual. Rendimiento + Hyprland 🏠✨
 ## `~$ cat currently_learning.md`
 
 ```diff
++ Rust en profundidad (ownership, lifetimes, concurrencia)
++ TypeScript + React para proyectos reales
 + Laravel & PHP avanzado
 + Python para scripting y automatización
 + Dotfiles & configuración de Hyprland
-+ SQL y diseño de bases de datos relacionales
 - Todavía explorando qué rama me apasiona más
 ```
 
 ---
 
-## `~$ links --social`
+## 🔗 Links
 
 <p align="center">
   <a href="https://github.com/Alejandro11r" target="_blank">
@@ -149,7 +105,7 @@ CachyOS         ──▶  Hogar actual. Rendimiento + Hyprland 🏠✨
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/hugo-rodriguez-08b59b323" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Hugo Rodríguez-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=89b4fa&labelColor=313244"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Hugo%20Rodríguez-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=89b4fa&labelColor=313244"/>
   </a>
   &nbsp;
   <a href="mailto:hugoalejandro.11r@gmail.com">
