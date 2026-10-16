@@ -18,23 +18,60 @@
   </picture>
 </a>
 
-<p align="center">
-  <b>⚡ Exploring systems, Rust, dotfiles & ricing on Arch Linux + Hyprland ⚡</b>
-</p>
+<br/>
+
+<a href="https://github.com/Alejandro11R">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA657&center=true&vCenter=true&width=550&lines=xalejo%40archlinux%3A~%24+whoami;Crafting+ultra-clean+Hyprland+rices+%E2%9C%A8;Diving+into+Rust%2C+systems+%26+concurrency+%F0%9F%A6%80;Building+modern+React+%2B+TypeScript+apps+%E2%9A%A1;Distro+hopper+turned+Arch+purist+%F0%9F%8F%A0" alt="Typing SVG" />
+</a>
 
 </div>
 
 ---
 
-### `## ~$ cat achievements.md`
+### `## ~$ neofetch --achievements`
 
 <div align="center">
 
-[![Quickdraw](https://img.shields.io/badge/Achievement-Quickdraw_🤠-ffa657?style=flat-square&logo=github&logoColor=white)](https://github.com/Alejandro11R?tab=achievements)
-[![YOLO](https://img.shields.io/badge/Achievement-YOLO_🪂-ffa657?style=flat-square&logo=github&logoColor=white)](https://github.com/Alejandro11R?tab=achievements)
-[![Pair Extraordinaire x10](https://img.shields.io/badge/Achievement-Pair_Extraordinaire_x10_👯-cd7f32?style=flat-square&logo=github&logoColor=white)](https://github.com/Alejandro11R?tab=achievements)
-[![Pull Shark](https://img.shields.io/badge/Achievement-Pull_Shark_🦈-79c0ff?style=flat-square&logo=github&logoColor=white)](https://github.com/Alejandro11R?tab=achievements)
-[![GitHub Pro](https://img.shields.io/badge/Highlight-GitHub_Pro_💜-a371f7?style=flat-square&logo=github&logoColor=white)](https://github.com/Alejandro11R)
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/Alejandro11R?tab=achievements">
+        <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80px" alt="Pull Shark" />
+        <br/>
+        <b>Pull Shark</b>
+        <br/>
+        <sub><code>83+ PRs Merged</code></sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/Alejandro11R?tab=achievements">
+        <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="80px" alt="Pair Extraordinaire" />
+        <br/>
+        <b>Pair Extraordinaire</b>
+        <br/>
+        <sub><code>Bronze Tier (x10)</code></sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/Alejandro11R?tab=achievements">
+        <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="80px" alt="Quickdraw" />
+        <br/>
+        <b>Quickdraw</b>
+        <br/>
+        <sub><code>Closed &lt; 5m</code></sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/Alejandro11R?tab=achievements">
+        <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="80px" alt="YOLO" />
+        <br/>
+        <b>YOLO</b>
+        <br/>
+        <sub><code>Direct Merge</code></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -45,10 +82,10 @@
 <div align="center">
 
 <a href="https://github.com/Alejandro11R">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alejandro11R&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffa657&text_color=a5d6ff&icon_color=79c0ff" alt="GitHub Stats" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alejandro11R&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffa657&text_color=a5d6ff&icon_color=79c0ff" alt="GitHub Stats" height="165" />
 </a>
 <a href="https://github.com/Alejandro11R">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro11R&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffa657&text_color=a5d6ff" alt="Top Languages" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro11R&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffa657&text_color=a5d6ff" alt="Top Languages" height="165" />
 </a>
 
 <br/>
@@ -56,6 +93,20 @@
 <a href="https://github.com/Alejandro11R">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alejandro11R&hide_border=true&background=0d1117&ring=ffa657&fire=ffa657&currStreakLabel=ffa657&sideLabels=a5d6ff&dates=7d8590" alt="GitHub Streak" width="90%" />
 </a>
+
+</div>
+
+---
+
+### `## ~$ ./play_snake.sh`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alejandro11R/Alejandro11R/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alejandro11R/Alejandro11R/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Alejandro11R/Alejandro11R/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
 
 </div>
 
