@@ -20,6 +20,7 @@
 - <img src="assets/icons/flask-conical.svg" width="18" height="18" align="absmiddle" alt=""> Developer and researcher in cyber-physical IoT systems, machine learning applied to precision livestock farming, and predictive analytics for higher education.
 - <img src="assets/icons/rocket.svg" width="18" height="18" align="absmiddle" alt=""> Systems craftsman building high-performance applications with **Rust**, **Tauri v2**, **React 19 / TypeScript**, and Linux environments.
 - <img src="assets/icons/shield-check.svg" width="18" height="18" align="absmiddle" alt=""> Research interests: Artificial Intelligence, cyber-physical IoT architectures, software architecture & quality attributes evaluation (QAW / ATAM), and Prompt Engineering.
+- <img src="assets/icons/hand.svg" width="18" height="18" align="absmiddle" alt=""> **Languages:** Español (Native) · English (Intermediate / B1) · Português (Intermediário).
 - <img src="assets/icons/briefcase.svg" width="18" height="18" align="absmiddle" alt=""> **Open to new opportunities** · [CvLAC Profile](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002428675)
 
 ---
@@ -46,7 +47,7 @@
 
 ## <img src="assets/icons/wrench.svg" width="20" height="20" align="absmiddle" alt=""> Tech stack
 
-**Languages**
+**Languages & Communication**
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -56,6 +57,10 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+<br/>
+![Español](https://img.shields.io/badge/Espa%C3%B1ol-Nativo-0A66C2?style=flat-square)
+![English](https://img.shields.io/badge/English-Intermediate%20%2F%20B1-238636?style=flat-square)
+![Português](https://img.shields.io/badge/Portugu%C3%AAs-Intermedi%C3%A1rio-E36209?style=flat-square)
 
 **Web, Mobile & Backend**
 
@@ -89,11 +94,67 @@
 
 ---
 
-## <img src="assets/icons/network.svg" width="20" height="20" align="absmiddle" alt=""> GitHub Analytics
+## <img src="assets/icons/network.svg" width="20" height="20" align="absmiddle" alt=""> Activity & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alejandro11R&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffa657&text_color=a5d6ff&icon_color=79c0ff" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro11R&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffa657&text_color=a5d6ff" alt="Top Languages" height="150" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alejandro11R/Alejandro11R/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alejandro11R/Alejandro11R/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Alejandro11R/Alejandro11R/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
+
+<br/><br/>
+
+<a href="https://github.com/Alejandro11R">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alejandro11R&hide_border=true&background=0d1117&ring=ffa657&fire=ffa657&currStreakLabel=ffa657&sideLabels=a5d6ff&dates=7d8590" alt="GitHub Streak" width="85%" />
+</a>
+
+<br/><br/>
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/Alejandro11R?tab=achievements">
+        <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="70px" alt="Pull Shark" />
+        <br/>
+        <b>Pull Shark</b>
+        <br/>
+        <sub><code>83+ PRs Merged</code></sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/Alejandro11R?tab=achievements">
+        <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="70px" alt="Pair Extraordinaire" />
+        <br/>
+        <b>Pair Extraordinaire</b>
+        <br/>
+        <sub><code>Bronze Tier (x10)</code></sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/Alejandro11R?tab=achievements">
+        <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="70px" alt="Quickdraw" />
+        <br/>
+        <b>Quickdraw</b>
+        <br/>
+        <sub><code>Closed &lt; 5m</code></sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/Alejandro11R?tab=achievements">
+        <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="70px" alt="YOLO" />
+        <br/>
+        <b>YOLO</b>
+        <br/>
+        <sub><code>Direct Merge</code></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 </div>
+
+---
 
 <p align="center"><i>Passionate about systems programming, machine learning, and high-impact technology</i></p>
