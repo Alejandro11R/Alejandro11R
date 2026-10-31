@@ -110,49 +110,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alejandro11R&hide_border=true&background=0d1117&ring=ffa657&fire=ffa657&currStreakLabel=ffa657&sideLabels=a5d6ff&dates=7d8590" alt="GitHub Streak" width="85%" />
 </a>
 
-<br/><br/>
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <a href="https://github.com/Alejandro11R?tab=achievements">
-        <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="70px" alt="Pull Shark" />
-        <br/>
-        <b>Pull Shark</b>
-        <br/>
-        <sub><code>83+ PRs Merged</code></sub>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/Alejandro11R?tab=achievements">
-        <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="70px" alt="Pair Extraordinaire" />
-        <br/>
-        <b>Pair Extraordinaire</b>
-        <br/>
-        <sub><code>Bronze Tier (x10)</code></sub>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/Alejandro11R?tab=achievements">
-        <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="70px" alt="Quickdraw" />
-        <br/>
-        <b>Quickdraw</b>
-        <br/>
-        <sub><code>Closed &lt; 5m</code></sub>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/Alejandro11R?tab=achievements">
-        <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="70px" alt="YOLO" />
-        <br/>
-        <b>YOLO</b>
-        <br/>
-        <sub><code>Direct Merge</code></sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
 </div>
 
 ---
