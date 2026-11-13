@@ -29,8 +29,8 @@
 
 | Project | Description & Architecture | Results & Dissemination |
 |---|---|---|
-| **MilkFlow** | Cyber-physical dairy monitoring system: ESP32 & DHT11 sensing layer, automated microclimate control, Firebase cloud synchronization, and individual milk yield forecasting via **Random Forest Regressor**. | R² 0.776 (test), MAE 0.842 L, SUS 90/85 · Presented at **CACIED 2025** · Exhibited at **SENSE 2025** (Universidad del Cauca) · Software Copyright **DNDA (Libro 13-106-307)** |
-| **Egresados 360 FUP** | Graduate tracking and employability analytics platform supported by a Systematic Literature Review (PRISMA, 3,349 records screened to 19 primary studies) and supervised ML models (Extra Trees, Random Forest, CatBoost). | Research Project, FUP · Methodological framework and predictive modeling for alumni career monitoring and decision support |
+| **MilkFlow** | Cyber-physical dairy monitoring system: ESP32 & DHT11 sensing layer, automated microclimate control, Firebase cloud synchronization, and individual milk yield forecasting via **Random Forest Regressor**. | R² 0.776 (test), MAE 0.842 L, SUS 90/85 · Presented at **CACIED 2025** · Exhibited at **SENSE 2025** · Poster author at **Ciencia al Parque 2026** · Software Copyright **DNDA (Libro 13-106-307)** |
+| **Egresados 360 FUP** | Graduate tracking and employability analytics platform supported by a Systematic Literature Review (PRISMA, 3,349 records screened to 19 primary studies) and supervised ML models (Extra Trees, Random Forest, CatBoost). | Poster author at **Ciencia al Parque 2026** (Mesa de Investigación del Cauca) · Methodological RSL framework & predictive modeling for alumni career monitoring and decision support |
 
 <img src="assets/icons/book-open.svg" width="18" height="18" align="absmiddle" alt=""> **Book chapter:** *Monitoreo inteligente de datos lecheros: una solución basada en IoT y aprendizaje automático* (Editorial Universidad de Nariño, ISBN 978-958-8958-39-2, 2025).
 
@@ -83,6 +83,7 @@
 
 ## <img src="assets/icons/award.svg" width="20" height="20" align="absmiddle" alt=""> Highlights & certifications
 
+- **Scientific Poster Author:** Presented two scientific posters (**MilkFlow** and **360FUP**) at the **VI Encuentro de Gestión de la Innovación y la Competitividad Cauca – Ciencia al Parque 2026** (Mesa de Investigación del Cauca, Santander de Quilichao & Popayán, Nov 2026).
 - **Speaker & Author** at the **VII Congreso Andino en Computación, Informática y Educación (CACIED 2025)** (Pasto, Colombia).
 - **Exhibitor** of the MilkFlow IoT system at **SENSE 2025** (Universidad del Cauca) and technological transfer sessions at **SENA CTPI** and **Unicomfacauca**.
 - **Distinction:** **Talento FUP "Semilleros que Inspiran 2025"** (Fundación Universitaria de Popayán).
