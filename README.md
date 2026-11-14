@@ -20,7 +20,7 @@
 - <img src="assets/icons/flask-conical.svg" width="18" height="18" align="absmiddle" alt=""> Developer and researcher in cyber-physical IoT systems, machine learning applied to precision livestock farming, and predictive analytics for higher education.
 - <img src="assets/icons/rocket.svg" width="18" height="18" align="absmiddle" alt=""> Systems craftsman building high-performance applications with **Rust**, **Tauri v2**, **React 19 / TypeScript**, and Linux environments.
 - <img src="assets/icons/shield-check.svg" width="18" height="18" align="absmiddle" alt=""> Research interests: Artificial Intelligence, cyber-physical IoT architectures, software architecture & quality attributes evaluation (QAW / ATAM), and Prompt Engineering.
-- <img src="assets/icons/hand.svg" width="18" height="18" align="absmiddle" alt=""> **Languages:** Español (Native) · English (Intermediate / B1) · Português (Intermediário).
+- <img src="assets/icons/hand.svg" width="18" height="18" align="absmiddle" alt=""> **Languages:** Español (Native) · English (A1) · Português (Intermediário).
 - <img src="assets/icons/briefcase.svg" width="18" height="18" align="absmiddle" alt=""> **Open to new opportunities** · [CvLAC Profile](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002428675)
 
 ---
@@ -59,7 +59,7 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 <br/>
 ![Español](https://img.shields.io/badge/Espa%C3%B1ol-Nativo-0A66C2?style=flat-square)
-![English](https://img.shields.io/badge/English-Intermediate%20%2F%20B1-238636?style=flat-square)
+![English](https://img.shields.io/badge/English-A1-238636?style=flat-square)
 ![Português](https://img.shields.io/badge/Portugu%C3%AAs-Intermedi%C3%A1rio-E36209?style=flat-square)
 
 **Web, Mobile & Backend**
